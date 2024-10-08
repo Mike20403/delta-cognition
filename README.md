@@ -1,4 +1,4 @@
-# Knorex Back-end 
+# Delta Cognition Back-end 
 1. **Install Dependencies**:
 
    Install all required packages using npm:
